@@ -12,4 +12,8 @@ Installs some packages.
 <a name="install"></a>
 ### Usage/Installation
     
+    git clone https://github.com/shintech/jlo
+    
+    cd jlo
+    
     ./start.sh
